@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and all t
 
 | 🌍 Location       | 👩‍💻 Tech Enthusiast                                      | 🎓 Lifelong Learner       |
 | ----------------- | ------------------------------------------------------- | ------------------------- |
-| Based in Brisbane | Specializing in Software Development & Data Engineering | Always exploring new tech |
+| Based in Australia | Specializing in Software Development & Data Engineering | Always exploring new tech |
 
 ---
 
