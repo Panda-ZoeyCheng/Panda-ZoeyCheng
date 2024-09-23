@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and all t
 
 ---
 
-# 📫 Get in Touch
+### 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ziying-zheng/)
 
