@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and all t
 | ----------------- | ------------------------------------------------------- | ------------------------- |
 | Based in Australia | Specializing in Software Development & Data Engineering | Always exploring new tech |
 
+---
 
 ### ✨ Highlights:
 
