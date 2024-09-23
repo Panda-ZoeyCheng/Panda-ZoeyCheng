@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Zoey Cheng!
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and all things that make the world a bit more efficient and exciting.
+Welcome to my GitHub profile! I have a deep passion for coding and technology, always inspired by the potential they hold to tackle real-world problems.
 
 ## 📌 About Me
 
