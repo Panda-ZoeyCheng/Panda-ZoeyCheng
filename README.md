@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I have a deep passion for coding and technology, a
 - 🎯 **Goals**: Building impactful solutions in Data Engineering & Software Development
 
 
-## 🎨 Hobbies & Interests
+### 🎨 Hobbies & Interests
 
 - 📖 **Reading**: Avid reader of tech blogs, sci-fi novels, and everything in between.
 - 🐾 **Pet Lover**: Hoping to have a 🐱 and a 🐶 soon, creating a happy family of three🏠.
